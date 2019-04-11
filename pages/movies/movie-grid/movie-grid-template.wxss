@@ -1,0 +1,10 @@
+
+@import "../movie/movie.wxss";
+.single-view-container{
+  float: left;
+  margin-bottom: 40rpx;
+}
+
+.grid-contaienr{
+  margin: 40rpx 0 40rpx 6rpx;
+}
